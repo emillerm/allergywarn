@@ -1,0 +1,1 @@
+AllergyWarn is a chrome browser extension built to help people with severe peanut allergies find restaurants where they can safely eat. Namely, it scans webpages for terms related to a particular allergen, making it easier to identify any items that may pose a problem. 
