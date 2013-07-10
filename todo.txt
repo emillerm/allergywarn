@@ -1,0 +1,8 @@
+
+
+
+- Add 16x16, 48x48, and 128x128 icons.
+	i.e. 
+	"icons": { "16": "icon16.png",
+	           "48": "icon48.png",
+	          "128": "icon128.png" },
